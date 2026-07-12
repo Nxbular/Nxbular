@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nxbular
 
-<!--
-**Nxbular/Nxbular** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Customizable Angular UI library inspired by the Nebular ecosystem and Eva Design System.
 
-Here are some ideas to get you started:
+It focuses on:
+- Multiple visual themes
+- Runtime theme switching
+- Flexible theming for custom branding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Useful links
+
+- 🌐 Website: https://nxbular.github.io/
+- 📚 Documentation: https://akveo.github.io/nebular/docs/getting-started/what-is-nebular
+- ⚡ StackBlitz Template: https://stackblitz.com/github/akveo/nebular-seed
+- 🧩 Angular Templates: https://github.com/akveo/ngx-admin
