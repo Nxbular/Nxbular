@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Nxbular 👋
 
-<!--
-**Nxbular/Nxbular** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [nxbular.github.io](https://nxbular.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- I build creative and practical web experiences.
+- I enjoy turning ideas into clean, user-friendly products.
+- I’m always learning and improving my craft.
+
+## What You'll Find Here
+- Personal and experimental projects
+- Web development work
+- Ongoing learning repositories
+
+## Let's Connect
+- Portfolio: [https://nxbular.github.io/](https://nxbular.github.io/)
