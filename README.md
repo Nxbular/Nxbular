@@ -22,7 +22,7 @@ I'm an IT Specialist for Application Development based in Germany. I love buildi
 *   **Portfolio:** [nxbular.github.io](https://nxbular.github.io/)
 *   **XDA Forums:** [nxbula](https://xdaforums.com/m/nxbula.13430018/)
 *   **Ko-fi:** [skyenight](https://ko-fi.com/skyenight)
-*   **Email:** [nxbular@proton.me](mailto:nxbular@proton.me)
+*   **Email:** [nxbular.dev@gmail.com](mailto:nxbular.dev@gmail.com)
 
 ---
 <p align="center">
